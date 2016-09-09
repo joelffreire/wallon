@@ -8,6 +8,6 @@
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
     "siteurl": {"student": {"url": "http://institutowallon.com.br/ead", "username": "student", "password": "moodle"}, "teacher": {"url": "http://institutowallon.com.br/ead", "username": "teacher", "password": "moodle"}, "cva": {"url": "http://institutowallon.com.br/ead", "username": "student", "password": "student"}},
-    "gcmpn": "694767596569",
+    "gcmpn": "",
     "customurlscheme": "moodlemobile"
 }
