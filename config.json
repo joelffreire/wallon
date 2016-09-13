@@ -1,5 +1,5 @@
 
-"app_id" : "com.institutowallon.moodlemobile",
+"app_id" : "br.com.institutowallon.moodlemobile",
 "versioncode" : "385",
 "versionname" : "1.0",
 "cache_expiration_time" : 300000,
@@ -16,5 +16,5 @@
 "extra_js": [],
 "demo_sites": [],
 "notifications_enabled": true,
-"gcmpn": "6947675961144769"
+"gcmpn": "694767115961144769"
 }
