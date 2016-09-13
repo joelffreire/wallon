@@ -6,7 +6,8 @@
 "plugins" : ["notifications", "messages", "upload", "events", "myfiles", "contents", "participants", "grades","addcontact", "addnote", "sendmessage", "forum", "label", "url", "page", "resource"],
 "wsservice" : "moodle_mobile_app",
 "wsextservice" : "local_mobile",
-"presets" : "url": "http://institutowallon.com.br/ead",
+"presets" : {"url": "http://institutowallon.com.br/ead", "username": "bsesay"},
+"siteurl" : "url": "http://institutowallon.com.br/ead",
 "sync_ws_on" : true,
 "sync_css_on" : true,
 "sync_cron": 300000,
@@ -15,5 +16,5 @@
 "extra_js": [],
 "demo_sites": [],
 "notifications_enabled": true,
-"gcmpn": "69476759644769"
+"gcmpn": "6947675961144769"
 }
