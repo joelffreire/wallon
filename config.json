@@ -8,6 +8,6 @@
     "wsservice": "moodle_mobile_app",
     "wsextservice": "local_mobile",
     "siteurl": "http://institutowallon.com.br/ead"
-    "gcmpn": "",
+    "gcmpn": "002222",
     "customurlscheme": "moodlemobile"
 }
